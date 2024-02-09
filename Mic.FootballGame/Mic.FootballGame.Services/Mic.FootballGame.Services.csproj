@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <ItemGroup>
+        <ProjectReference Include="..\Mic.FootballGame.Data\Mic.FootballGame.Data.csproj"/>
+        <ProjectReference Include="..\Mic.FootballGame.Domain\Mic.FootballGame.Domain.csproj"/>
+    </ItemGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.1"/>
+    </ItemGroup>
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <AssemblyName>Mic.FootballGame.Service</AssemblyName>
+        <RootNamespace>Mic.FootballGame.Service</RootNamespace>
+    </PropertyGroup>
+
+</Project>

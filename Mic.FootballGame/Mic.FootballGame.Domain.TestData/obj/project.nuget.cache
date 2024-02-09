@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "+/VXw1X811cPKfxKgazW9uSRlqLYqmykwwwvu/k34Lk+WZuj9ubbBGafaZiIozHR8atzQBLGj+rjq+Mv+KHbOQ==",
+  "success": true,
+  "projectFilePath": "/Users/thomasdriancourt/sources/Mic-session-unitTests/Mic.FootballGame/Mic.FootballGame.Domain.TestData/Mic.FootballGame.Domain.TestData.csproj",
+  "expectedPackageFiles": [
+    "/Users/thomasdriancourt/.nuget/packages/autofixture/5.0.0-preview0007/autofixture.5.0.0-preview0007.nupkg.sha512",
+    "/Users/thomasdriancourt/.nuget/packages/fare/2.2.1/fare.2.2.1.nupkg.sha512",
+    "/Users/thomasdriancourt/.nuget/packages/system.componentmodel.annotations/4.4.0/system.componentmodel.annotations.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

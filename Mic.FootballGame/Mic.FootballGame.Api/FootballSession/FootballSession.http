@@ -1,0 +1,12 @@
+POST http://localhost:5267/api/v1/football-session/84982b07-8ae8-4c3c-ae77-94795511225b/subscriptions
+Content-Type: application/json
+
+{
+  "playerId": "98616d26-576f-411a-470d-08dc2821bcfd"
+}
+
+###
+GET http://localhost:5267/api/v1/football-session
+Accept: application/json
+
+###

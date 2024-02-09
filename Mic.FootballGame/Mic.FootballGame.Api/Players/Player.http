@@ -1,0 +1,14 @@
+GET http://localhost:5267/api/v1/players
+Accept: application/json
+
+### 
+POST http://localhost:5267/api/v1/players
+Content-Type: application/json
+
+{
+  "name": "Adrien Clerbois",
+  "email": "aclerbois@mic-mons.be"
+}
+
+###
+

@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "SqlServer": "Server=127.0.0.1,1433;Initial Catalog=FootballSession-store;User Id=footballSession-user;Password=password1234!!;TrustServerCertificate=True"
+  }
+}
